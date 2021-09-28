@@ -1,0 +1,12 @@
+/* :root {
+  primary-text-color: #757575;
+  title-text-color: #212121;
+  accent-color: #2196f3;
+  primary-whiter-color: #ffffff; */
+body {
+  background-color: #ffffff;
+  color: #757575;
+}
+.title {
+  color: #212121;
+}
